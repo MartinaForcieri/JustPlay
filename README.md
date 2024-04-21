@@ -35,5 +35,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-just-play-eight.vercel.app
+https://just-play-eight.vercel.app/signIn
 
